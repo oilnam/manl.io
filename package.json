@@ -24,6 +24,9 @@
     "prettier-plugin-astro": "^0.14.1",
     "sass": "^1.97.3"
   },
+  "overrides": {
+    "tinyexec": "1.0.2"
+  },
   "devEngines": {
     "runtime": {
       "name": "node",

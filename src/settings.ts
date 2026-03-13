@@ -14,8 +14,8 @@ type Config = {
 };
 
 export const siteConfig: Config = {
-  title: "smallworld",
-  description: "A minimal Astro template styled with Pico CSS",
+  title: "manlio",
+  description: "my tiny corner of the internet",
   lang: "en",
   favicon: "/favicon.svg",
   og: {
